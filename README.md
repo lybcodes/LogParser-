@@ -143,6 +143,5 @@ go-torch cpu.prof
 - `-httpprof`: Start HTTP performance profiling server (e.g., :6060)
 - `-stats`: Display runtime statistics
 
-## 性能基准
 
 Actual performance depends on hardware configuration and log line length.
